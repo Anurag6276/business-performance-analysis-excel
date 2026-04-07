@@ -24,3 +24,9 @@ Problem statement - This project focuses on analyzing messy sales data using Exc
 Microsoft Excel
 Data Cleaning
 Charts & Dashboard
+
+![Raw Data View](sc8.png)
+
+![Cleaned Data](sc9.png)
+
+![Insights Dashboards](sc10.png)
