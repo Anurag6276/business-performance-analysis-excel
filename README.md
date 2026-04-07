@@ -25,6 +25,8 @@ Microsoft Excel
 Data Cleaning
 Charts & Dashboard
 
+## Screenshots
+
 ![Raw Data View](sc8.png)
 
 ![Cleaned Data](sc9.png)
